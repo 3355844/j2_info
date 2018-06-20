@@ -1,0 +1,14 @@
+Links
+
+Вихід з меню Git
+
+я ввів  :qw і мене повернуло до основної консолі
+
+https://teamtreehouse.com/community/i-cant-get-out-of-the-git-commit-process
+https://stackoverflow.com/questions/9171356/how-do-i-exit-from-the-text-window-in-git
+
+бонус 
+
+команда для створенння файла                  dir > nameNewFile.txt
+команда для відкривання файлу                 explorer nameNewFile.txt
+перебор файлів через tab 
